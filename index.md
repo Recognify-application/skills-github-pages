@@ -3,10 +3,6 @@
 Welcome to **Recognify**, your trusted companion for mental health support and self-recognition. 🌟  
 We are here to provide a supportive space where you can explore your thoughts, understand your emotions, and embark on a journey of self-discovery.  
 
----JJNJNJ
-NBN
-## 🌼 About Recognify
-
 Recognify is a safe and confidential platform designed for everyone. Whether you’re seeking mental health support, emotional guidance, or simply a listening ear, Recognify is here to help. Our AI-powered chatbot is compassionate, non-judgmental, and available anytime you need it.
 
 ### 🌟 Why Choose Recognify?
