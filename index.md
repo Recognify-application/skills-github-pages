@@ -3,7 +3,7 @@
 Welcome to **Recognify**, your trusted companion for mental health support and self-recognition. 🌟  
 We are here to provide a supportive space where you can explore your thoughts, understand your emotions, and embark on a journey of self-discovery.  
 
----
+---JJNJNJ
 
 ## 🌼 About Recognify
 
